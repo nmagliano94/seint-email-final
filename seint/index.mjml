@@ -1,0 +1,77 @@
+<mjml html lang="en">
+  <mj-preview>Last chance: up to 50% off!</mj-preview>
+  <mj-title>Seint Cyber Monday deals begin NOW!</mj-title>
+  <mj-head>
+    <mj-font name="Noto Serif Display" href="https://fonts.googleapis.com/css2?family=Noto+Serif+Display:ital,wght@0,300;0,400;0,500;0,700;1,300" />
+    <mj-attributes>
+      <mj-all font-family="Noto Serif Display, Arial, sans-serif" />
+      <mj-image padding="0" />
+      <mj-text align="center" color="#000" />
+      <mj-section background-color="#fff" />
+    </mj-attributes>
+    <!-- STYLES -->
+    <mj-style> .footer-link { color: #007EF2 !important; } .footer-link-2 { color: #000 !important; } </mj-style>
+  </mj-head>
+  <!-- HERO SECTION -->
+  <mj-body width="608px" background-color="#EFEFEC">
+    <mj-section background-color="#000" padding="5px 0 5px 0">
+      <mj-column>
+        <mj-text color="#fff" font-size="48px" font-weight="300"> SEINT </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0">
+      <mj-column>
+        <mj-image src="https://i.postimg.cc/zX6hM5H3/discount.jpg"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="20px 15px 0 15px">
+      <mj-column>
+        <mj-text font-size="16px" font-weight="400" line-height="26px">It's Cyber Monday! Stock up on your favorite beauty essentials before our Black Friday deals end tonight. Happy Holidays!</mj-text>
+        <mj-divider border-width="1px" width="75%" align="right" padding="15px 0" />
+        <mj-divider border-width="1px" width="75%" align="left" padding="0" />
+      </mj-column>
+    </mj-section>
+    <!-- DISCLAIMER SECTION -->
+    <mj-section padding="20px 15px 0 15px">
+      <mj-column>
+        <mj-text color="#000" font-weight="400" font-size="13px" line-height="20px">/ Please note: Black Friday deals are final purchase and are not availible for refund or store credit. Black Friday discounts cannot be stacked in combination with hostess rewards.</mj-text>
+        <mj-text color="#000" font-weight="400" font-size="13px" line-height="20px">/ Please note: Due to an unforeseen delay on the part of our shipping partner, the individual fine mist fragrances will be coming soon to the U.S.</mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- MENU SECTION -->
+    <mj-section padding="30px 0 0 0">
+      <mj-column>
+        <mj-button href="#" background-color="#fff" border="2px solid #000" color="#000" font-size="18px" font-weight="500" inner-padding="8px" width="95%">SHOP CYBER MONDAY</mj-button>
+        <mj-button href="#" background-color="#fff" border="2px solid #000" color="#000" font-size="18px" font-weight="500" inner-padding="8px" width="95%">SHOP MAKEUP</mj-button>
+        <mj-button href="#" background-color="#fff" border="2px solid #000" color="#000" font-size="18px" font-weight="500" inner-padding="8px" width="95%">SHOP SKINCARE</mj-button>
+        <mj-button href="#" background-color="#fff" border="2px solid #000" color="#000" font-size="18px" font-weight="500" inner-padding="8px" width="95%">SHOP TOOLS</mj-button>
+        <mj-button href="#" background-color="#fff" border="2px solid #000" color="#000" font-size="18px" font-weight="500" inner-padding="8px" width="95%">SHOP APPAREL</mj-button>
+        <mj-button href="#" background-color="#fff" border="2px solid #000" color="#000" font-size="18px" font-weight="500" inner-padding="8px" width="95%">CONTACT/ASK</mj-button>
+        <mj-image src="https://i.postimg.cc/qMznjgR9/st-logo.jpg" width="60px" padding-top="35px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- SOCIAL ICONS -->
+    <mj-section padding="35px 0 35px 0">
+      <mj-column>
+        <mj-social icon-size="45px" mode="horizontal">
+          <mj-social-element name="facebook" background-color="#000" border-radius="8px" href="https://facebook.com"></mj-social-element>
+          <mj-social-element name="twitter" background-color="#000" border-radius="8px" href="https://facebook.com"></mj-social-element>
+          <mj-social-element name="pinterest" background-color="#000" border-radius="8px" href="https://facebook.com"></mj-social-element>
+          <mj-social-element name="instagram" background-color="#000" border-radius="8px" href="https://facebook.com"></mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+    <!-- FOOTER -->
+    <mj-section padding="0">
+      <mj-column>
+        <mj-text padding="0" font-size="14px">Seint Headquarters</mj-text>
+        <mj-text font-size="14px" line-height="20px"><a href="#" class="footer-link">84 West 1470 South Ste. 1<br>St. George, Utah 84770</a></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="10px 0 20px 0">
+      <mj-column>
+        <mj-text><a href="#" font-weight="500" class="footer-link-2">View web version</a> / <a href="#" class="footer-link-2">Unsubscribe</a></mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
